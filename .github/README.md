@@ -12,7 +12,7 @@
   <img src="https://telegra.ph/file/e4abc4ca5e4c71b5a29d9.jpg">
 </p>
 
-_**OFFICIAL ROYAL ➣ [🎧 ROYAL MUSIC BOT 🎧](https://t.me/Royal_MusixBot)**_
+_**OFFICIAL 𝙀𝙍𝙄𝘾𝘼 ➣ [🎧 𝙀𝙍𝙄𝘾𝘼 MUSIC BOT 🎧](https://t.me/Music_SeriesBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 
