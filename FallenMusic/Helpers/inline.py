@@ -45,8 +45,8 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
         ],
         [
-      InlineKeyboardButton(text="🖤 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🖤", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
-      InlineKeyboardButton(text="🥀 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🥵", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
+      InlineKeyboardButton(text="🖤 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🖤", url=f"https://t.me/Night_club_chatting"),
+      InlineKeyboardButton(text="🥀 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🥵", url=f"https://t.me/ll_Her_Boy_ll")
     ],
   ]
 )
@@ -59,10 +59,10 @@ pm_buttons = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="🩸𝙷𝙴𝙻𝙿 𝙰𝙽𝙳 𝙲𝙼𝙳𝚂🩸", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="🩸𝙷𝙴𝙻𝙿 𝙰𝙽𝙳 𝙲𝙼𝙳𝚂🩸", callback_data="Ronny_support_chats")],
     [
-      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
-      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
+      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/Night_club_chatting"),
+      InlineKeyboardButton(text="🍷 OWNER 🌸", url=f"https://t.me/ll_Her_Boy_ll")
     ],
     [
         InlineKeyboardButton(
@@ -81,8 +81,8 @@ gp_buttons = [
         )
     ],
     [
-      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
-      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
+      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/Night_club_chatting"),
+      InlineKeyboardButton(text="🍷 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/ll_Her_Boy_ll")
     ],
     [
         InlineKeyboardButton(
@@ -103,7 +103,7 @@ helpmenu = [
     [
         InlineKeyboardButton(
             text="❣️ᴇᴠᴇʀʏᴏɴᴇ❣️",
-            callback_data="fallen_cb help",
+            callback_data="Ronny_support_chats",
         )
     ],
     [
@@ -126,7 +126,7 @@ help_back = [
     ],
     [InlineKeyboardButton(text="🖤 𝙶𝚁𝙾𝚄𝙿 🖤", url=config.SUPPORT_CHAT)],
     [
-        InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_help"),
+        InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="Ronny_support_chats"),
         InlineKeyboardButton(text="✯ ᴄʟᴏsᴇ ✯", callback_data="close"),
     ],
 ]
